@@ -29,3 +29,13 @@ AVD = Tools -> AVD Mangers If 없다면 Ctrl + Shift + a -> AVD 검색
 ???
 
 
+
+
+
+
+
+
+###공식문서
+
+https://facebook.github.io/react-native/docs/getting-started
+
